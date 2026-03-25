@@ -25,10 +25,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zouares&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zouares&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
