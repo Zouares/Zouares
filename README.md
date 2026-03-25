@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Soares 👋</h1>
-  <p>Full Stack Developer — turning ideas into reality, one commit at a time.</p>
+  <p>Full Stack Developer — turning ideas into reality.</p>
   <img src="https://komarev.com/ghpvc/?username=zouares&color=0e75b6&style=flat-square&label=profile+views" alt="profile views" />
 </div>
 
