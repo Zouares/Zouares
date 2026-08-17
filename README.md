@@ -33,9 +33,6 @@ localizacao: Brasília, DF - Brasil
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zouares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=6D28D9&text_color=c9d1d9" width="100%"/>
-
-<img src="https://streak-stats.demolab.com?user=Zouares&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=6D28D9&currStreakLabel=0EA5E9" width="100%"/>
 
 </td>
 </tr>
