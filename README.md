@@ -50,20 +50,6 @@ localizacao: Brasília, DF - Brasil
 
 <br>
 
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/Zouares/modifier_batch_apply">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zouares&repo=modifier_batch_apply&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=6D28D9" />
-</a>
-<a href="https://github.com/Zouares/blenderpad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zouares&repo=blenderpad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=6D28D9" />
-</a>
-
-</div>
-
-<br>
 
 ## 📈 Atividade
 
