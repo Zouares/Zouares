@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=220&section=header&text=Gabriel%20Soares&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%40%20NEVOAI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Criador+de+IA+de+Atendimento+%40+NEVOAI;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full+Stack+Developer;Blender+Addon+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+IA+de+Atendimento+%40+NEVOAI;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full+Stack+Developer;Blender+Addon+Creator" alt="Typing SVG" />
 </a>
 
 </div>
