@@ -1,75 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=220&section=header&text=Gabriel%20Soares&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%40%20NEVOAI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+IA+de+Atendimento+%40+NEVOAI;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full+Stack+Developer;Blender+Addon+Creator" alt="Typing SVG" />
-</a>
-
-</div>
+<a href="https://nevoaai.com/"><img src="assets/nevoa-header.svg" alt="Gabriel Soares — Full Stack Developer e Agentes de IA na Nevoa AI" width="100%"></a>
 
 <br>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<a href="https://nevoaai.com/"><img src="https://img.shields.io/badge/NEVOA%20AI-ccff00?style=for-the-badge&labelColor=09090b&color=ccff00" alt="Nevoa AI"></a>
+<a href="https://www.linkedin.com/in/gabrielsoaresss/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Soares-09090b?style=for-the-badge&logo=linkedin&logoColor=ccff00" alt="LinkedIn"></a>
 
-### 👋 Sobre mim
+**Código próprio. Dados reais. Inteligência aplicada.**
 
-```yaml
-nome: Gabriel Soares
-cargo: Criador de IA de Atendimento @ NEVOAI
-foco: Full Stack Development & Inteligência Artificial
-formacao: Ciência da Computação (7º semestre)
-localizacao: Brasília, DF - Brasil
+</div>
+
+## 01 / Sobre mim
+
+Sou **Gabriel Soares**, desenvolvedor **full stack** e criador de **agentes de IA** na [Nevoa AI](https://nevoaai.com/), em Brasília. Gosto de transformar processos complexos em produtos claros: da interface e das APIs à integração de dados, automação e deploy.
+
+Hoje, meu foco está em **agentes inteligentes**, **sistemas de atendimento**, **integrações sob medida** e experiências digitais que funcionam na operação real.
+
+```text
+gabriel@nevoa:~$ foco --atual
+> Full stack · Agentes de IA · Automação · Integrações
 ```
 
-- 🤖 Construo **agentes de IA e sistemas de atendimento inteligente** na **NEVOAI**
-- 💻 Desenvolvedor **Full Stack** — do backend à interface, do dado ao deploy
-- 🎓 Cursando **Ciência da Computação**
-- 🧩 Nas horas vagas, crio **addons para Blender**
-- 📫 Fala comigo: [LinkedIn](https://linkedin.com/in/gabrielsoaresss)
+## 02 / O que construo
 
-</td>
-<td width="40%" valign="top" align="center">
+| Área | Trabalho |
+|:--|:--|
+| **Agentes de IA** | Fluxos de atendimento e agentes conectados a dados e ferramentas. |
+| **Desenvolvimento full stack** | Interfaces, serviços, APIs e experiências de ponta a ponta. |
+| **Automação e integrações** | Sistemas que conversam entre si e reduzem trabalho manual. |
 
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🧠 Stack & Ferramentas
+## 03 / Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,go,cs,cpp,c,react,vue,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,go,cs,cpp,c,react,vue,nodejs&theme=dark" alt="Python, Go, C#, C++, C, React, Vue e Node.js">
+
+`Python` · `Node.js` · `React` · `Vue` · `Go` · `C#` · `APIs` · `IA`
 
 </div>
 
-<br>
-
-
-## 📈 Atividade
+## 04 / Em movimento
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zouares&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=6D28D9&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zouares&bg_color=09090b&color=fafafa&line=ccff00&point=ccff00&area=true&area_color=ccff00&hide_border=true" alt="Gráfico de atividade no GitHub de Gabriel Soares" width="100%">
 
 </div>
 
-<br>
+## 05 / Vamos conversar
+
+Trabalho na **[Nevoa AI](https://nevoaai.com/)**, onde criamos automação e IA sob medida para operações reais. Para acompanhar meu trabalho ou trocar uma ideia, [conecte-se comigo no LinkedIn](https://www.linkedin.com/in/gabrielsoaresss/).
 
 <div align="center">
 
-### 🌐 Conecte-se
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsoaresss)
-[![NEVOAI](https://img.shields.io/badge/NEVOAI-6D28D9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](#)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer" width="100%"/>
+<sub>Gabriel Soares · Brasília, DF · Nevoa AI</sub>
 
 </div>
