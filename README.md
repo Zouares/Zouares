@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://nevoaai.com/"><img src="assets/nevoa-header.svg" alt="Gabriel Soares — Full Stack Developer e Agentes de IA na Nevoa AI" width="100%"></a>
+<a href="https://nevoaai.com/"><img src="https://raw.githubusercontent.com/Zouares/Zouares/68c6b394be509a22bc2c590c396cc85e7abadd81/assets/nevoa-header.svg" alt="Gabriel Soares — Full Stack Developer e Agentes de IA na Nevoa AI" width="100%"></a>
 
 <br>
 
